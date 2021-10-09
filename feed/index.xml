@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>Landing Page</title>
+	<title>Yungindra</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Moto situs Anda bisa diletakkan di sini</description>
-	<lastBuildDate>Fri, 08 Oct 2021 09:48:48 +0000</lastBuildDate>
+	<description>Portfolio</description>
+	<lastBuildDate>Sat, 09 Oct 2021 10:03:01 +0000</lastBuildDate>
 	<language>id-ID</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>./../wp-content/uploads/2021/10/small-icon-150x150.png</url>
+	<title>Yungindra</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
